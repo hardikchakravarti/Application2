@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/hardikchakravarti/Application.git
     targetRevision: HEAD
-    path: \Application\dev
+    path: \Application2\dev
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp
